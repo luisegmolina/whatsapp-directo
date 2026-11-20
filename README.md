@@ -14,4 +14,4 @@ Sitio estático en Render (plan gratuito, no se duerme: no hay servidor, solo ar
 - `index.html` — la página
 - `manifest.webmanifest` — manifiesto PWA
 - `sw.js` — service worker
-- `icon-192.png` / `icon-512.png` — iconos
+- `icon.svg` — icono (SVG, válido para el manifiesto PWA)
